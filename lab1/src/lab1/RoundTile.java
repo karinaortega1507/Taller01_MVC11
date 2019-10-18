@@ -42,7 +42,7 @@ public class RoundTile extends GameTile {
 	 *            the color of the interior of the circle.
 	 */
 	public RoundTile(final Color strokeColor, final Color fillColor) {
-		this(strokeColor, fillColor, 1.0);
+		this(strokeColor, fillColor, 1.0);//1
 	}
 
 	/**
